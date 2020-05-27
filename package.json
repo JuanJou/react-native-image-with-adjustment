@@ -1,0 +1,15 @@
+{
+  "name": "react-native-image-with-adjustment",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react": "16.9.0",
+    "react-native": "^0.62.0"
+  },
+  "author": "Juan Jouglard and Matias Massetti",
+  "license": "ISC"
+}

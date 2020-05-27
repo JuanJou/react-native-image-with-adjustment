@@ -1,0 +1,1 @@
+This is a module that's still in development. We are migrating a react component that we build for our app to a npm package on it's own so it can be used by everyone. You can still use the code if you want but you will have to make it work by yourself.Noticed that this component with java code on android side.
