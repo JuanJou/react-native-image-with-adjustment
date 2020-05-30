@@ -5,7 +5,7 @@ def getExtOrDefault(name) {
 }
 
 def getExtOrIntegerDefault(name) {
-  return rootProject.ext.has(name) ? rootProject.ext.get(name) : (project.properties['ReactNativeImageAdjustment_' + name]).toInteger()
+  return rootProject.ext.has(name) ? rootProject.ext.get(name) : (project.properties['ReactNativeImageAdjustment_' + name])
 }
 buildscript {
     repositories {
