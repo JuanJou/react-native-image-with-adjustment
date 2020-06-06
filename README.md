@@ -4,7 +4,7 @@
 
 This is a component for react native to display images. It inherits all funcionality of the base react native image components, and adds three more props to change image's saturation, brightness and contrast. It also accepts a prop called `code`save`code`
 
-`code`
+`
 <ImageWithAdjustment
     brightness={this.state.brightness}
     saturation={this.state.saturation}
@@ -20,5 +20,5 @@ This is a component for react native to display images. It inherits all funciona
     onSave={this.onSave}
     save={this.triggerSave}
 />
-`code`
+`
 
