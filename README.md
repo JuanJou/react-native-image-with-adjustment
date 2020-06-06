@@ -22,3 +22,4 @@ This is a component for react native to display images. It inherits all funciona
 />
 `
 
+This component is still being developed, it's not working currently. What you can do, is adapt the code for your given project. Noticed that the component is written on Android side with Java.
