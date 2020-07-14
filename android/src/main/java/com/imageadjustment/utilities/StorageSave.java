@@ -8,7 +8,7 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 
 public class StorageSave {
-    public String saveToExternalStorage(Bitmap bmp) {
+	public String saveToExternalStorage(Bitmap bmp) {
         FileOutputStream fos = null;
         String uri = Environment.getExternalStorageDirectory().toString()+"/Pictures/"+System.currentTimeMillis()+".jpeg";
         try {
